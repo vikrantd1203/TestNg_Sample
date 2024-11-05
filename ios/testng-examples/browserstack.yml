@@ -1,0 +1,12 @@
+userName: BROWSERSTACK_USERNAME
+accessKey: BROWSERSTACK_ACCESS_KEY
+framework: testng
+app: bs://sample.app
+platforms:
+  - platformName: ios
+    deviceName: iPhone 15
+    platformVersion: 17
+parallelsPerPlatform: 2
+browserstackLocal: false
+buildName: Parallel_Runs_iOS
+projectName: BrowserStack Sample
