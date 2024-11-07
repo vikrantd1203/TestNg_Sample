@@ -8,5 +8,5 @@ platforms:
     platformVersion: 17
 parallelsPerPlatform: 2
 browserstackLocal: false
-buildName: Parallel_Runs_iOS
+buildName: Parallel_Runs
 projectName: BrowserStack Sample
